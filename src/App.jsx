@@ -2,7 +2,7 @@ import "./App.css";
 import { Routes, Route } from "react-router-dom";
 
 import Header from "./components/header/Header";
-import Home from "./modules/Home/Home";
+import Home from "./modules/home/Home";
 import Footer from "./components/footer/Footer";
 import Product from "./modules/singleProduct/SingleProduct";
 import AllProduct from "./modules/allProduct/AllProduct";
